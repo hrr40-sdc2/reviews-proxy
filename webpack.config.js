@@ -4,6 +4,7 @@ module.exports = {
   entry: {
     reviews: __dirname + '../../reviews/client/src/index.js',
     nearby: __dirname + '../../nearby-service-repo/client/index.jsx',
+    description: __dirname + '../../description/client/src/index.jsx',
     vendor: ["styled-components"],
   },
   optimization: {

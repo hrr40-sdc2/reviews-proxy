@@ -1,0 +1,5 @@
+node_modules
+.aws
+public
+STYLE-GUIDE.md
+client/dist
